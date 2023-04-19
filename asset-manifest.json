@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/last-api-project.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/last-api-project.github.io/static/js/main.84cef728.js",
+    "index.html": "/last-api-project.github.io/index.html",
+    "main.84cef728.js.map": "/last-api-project.github.io/static/js/main.84cef728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.84cef728.js"
+  ]
+}
